@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+!/data/
+!/notebooks/.ipynb_checkpoints/
+!/venv/
+!/notebooks/mlruns/
+/data/
+/notebooks/mlruns/
+/notebooks/.ipynb_checkpoints/
+!/scripts/logs.log
+/scripts/
+/venv/

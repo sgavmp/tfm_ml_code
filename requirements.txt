@@ -1,0 +1,10 @@
+pycaret==2.3.1
+shap
+jupyter
+graphviz
+https://github.com/pandas-profiling/pandas-profiling/archive/master.zip
+boto3
+sagemaker
+pandas
+scikit-learn
+sagemaker[local]
