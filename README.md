@@ -9,6 +9,5 @@
 * sagemaker: Contiene el Docker para ejecutar los scripts con Pycaret en Sagemaker, y los diferentes scripts para automatizar la creación de las tareas de entrenamiento y los punto de enlaces para cada modelo.
 
 ## Notas para ejecutar los Notebooks
-Por defecto, los Notebooks leen los datos de S3, y almacena los modelos resultantes en S3. En cada notebook se encuentra comentado el código para leer los datos de manera local y almacenar los modelos tambíen en local.
+Por defecto, los Notebooks leen los datos de la carpeta local, y almacena los modelos resultantes en S3 y en local. 
 
-## Sagemaker
